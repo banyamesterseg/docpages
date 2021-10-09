@@ -1,10 +1,14 @@
 ## Welcome to our small list of useful stuff
 
-### Minecraft
+### JAVA
+
+  - [Garbage Collection algorithms](java/GC)
+
+### Minecraft and commonplace plugins documentation
 
   - [Minecraft command selectors](MC/placeholders)
   - [WorldEdit reference](MC/WE)
 
-### JAVA
+### Plugin comparison
 
-  - [Garbage Collection algorithms](java/GC)
+  - [AntiCheats](MC/anticheats)
