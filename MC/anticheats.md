@@ -34,7 +34,6 @@
   - Great movement and combat checks.
   - Cheap anticheat.
   - Good default config.
-  - Open Source.
 ##### Cons
   - Premium :(
 
