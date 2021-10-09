@@ -11,4 +11,4 @@
 
 ### Plugin comparison
 
-  - [AntiCheats](MC/anticheats)
+  - [AntiCheats](MC/anticheats) - thanks goose
