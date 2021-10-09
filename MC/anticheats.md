@@ -47,3 +47,22 @@
   - Bad default config.
   - Bad combat and movement checks.
   - The author is a twat.
+  - Drains a large amount of server resources.
+
+#### [Matrix](https://matrix.rip)
+##### Pros
+  - Free with premium options.
+  - Decent-ish movement and combat checks.
+##### Cons
+  - Bad default config. [Encode's config](https://github.com/QuantumSuite/MatrixChecks) is pretty good.
+  - Player limit on free plan (75)
+  -  Expensive paid plans.
+
+#### [Matrix](https://matrix.rip)
+##### Pros
+  - Free with premium options.
+  - Decent-ish movement and combat checks.
+##### Cons
+  - Bad default config. [Encode's config](https://github.com/QuantumSuite/MatrixChecks) is pretty good.
+  - Player limit on free plan (75)
+  -  Expensive paid plans.
