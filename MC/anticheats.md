@@ -108,3 +108,16 @@
   - Fake Open Source Link. Leads to a Rick Roll... ~~but hey, not like anyone will want to copy these checks.~~
 
 ###### Do you want every player to get flagged (falsely) for everything? Use SAC! 
+
+
+#### [Negativity v1](https://www.spigotmc.org/resources/soaromasac-lightweight-cheat-detection-system.87702/)
+
+##### Pros
+  - Free & Open Source.
+  - Paid Version is Open Source
+  - Decent-ish Movement & Combat Checks
+
+##### Cons
+  - Lacks some important checks. (No Elytra Checks, NoSlow Checks)
+
+###### Pretty decent temporary anticheat, perhaps good as a replacement for NCP as it has a decent default config.
