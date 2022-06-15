@@ -61,3 +61,13 @@
 ##### Cons
   - Bad default config, but there are some [good ones](https://github.com/QuantumSuite/MatrixChecks) out there
   - Player limit on free plan (75), paid plans are expensive
+
+#### [Themis](https://www.spigotmc.org/resources/themis-anti-cheat-1-17-1-18-bedrock-support-paper-compatibility-free-optimized.90766/)
+
+##### Pros
+  - Free.
+  - Proper Geyser-Floodgate (Bedrock Players) checks. Only reason to use this anticheat.
+
+##### Cons
+  - Bad Combat & Mediocre Movement checks (Bad Elytra, Timer, KillAura Checks)
+  - Lack of checks in general.
