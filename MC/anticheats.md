@@ -71,3 +71,13 @@
 ##### Cons
   - Bad Combat & Mediocre Movement checks (Bad Elytra, Timer, KillAura Checks)
   - Lack of checks in general.
+
+#### [SoaromaSAC (Config 6)](https://www.spigotmc.org/resources/soaromasac-lightweight-cheat-detection-system.87702/)
+
+##### Pros
+  - Free.
+
+##### Cons
+  - Bad Checks
+  - Infinite False Positives
+  - Fake Open Source Link. Leads to a Rick Roll... ~~but hey, not like anyone will want to copy these checks.~~
