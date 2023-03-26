@@ -11,8 +11,6 @@
   - Default configuration will spam false movement positives all over the place, you should buy a good config (eg. [MarkElf's](https://www.mc-market.org/resources/475/)) OR make your own
   - Mediocre combat checks
 
-###### Highly recommended if you're looking for a free anticheat and don't mind configuring it yourself.
-
 #### [AdvancedAntiCheat](https://www.spigotmc.org/resources/6442/)
 
 ##### Pros
@@ -48,10 +46,23 @@
 
 ###### Pretty much the best.
 
+#### [Astro](https://astroac.cc/)
+
+##### Pros
+  - Great movement and combat checks
+  - Good default config
+  - Bedrock Player Checks (Nothing great, though)
+
+##### Cons
+  - USD 30.00
+
+###### Pretty much the best.
+
 #### [Spartan](https://www.spigotmc.org/resources/25638/)
 
 ##### Pros
   - 14-day money-back guarantee
+  - Proper Bedrock Player Checks.
 
 ##### Cons
   - EUR 22.49
@@ -61,17 +72,6 @@
 
 ###### Please don't use Spartan. Not worth it.
 
-#### [Matrix](https://matrix.rip)
-
-##### Pros
-  - Free with premium options.
-  - Decent-ish movement and combat checks.
-
-##### Cons
-  - Bad default config, but there are some [good ones](https://github.com/QuantumSuite/MatrixChecks) out there
-  - Player limit on free plan (75), paid plans are expensive
-
-###### One Word: Vulcan.
 
 #### [Themis](https://www.spigotmc.org/resources/themis-anti-cheat-1-17-1-18-bedrock-support-paper-compatibility-free-optimized.90766/)
 
@@ -98,7 +98,7 @@
 ###### Do you want every player to get flagged (falsely) for everything? Use SAC! 
 
 
-#### [Negativity v1](https://www.spigotmc.org/resources/soaromasac-lightweight-cheat-detection-system.87702/)
+#### [Negativity v1/v2](https://www.spigotmc.org/resources/soaromasac-lightweight-cheat-detection-system.87702/)
 
 ##### Pros
   - Free & Open Source.
